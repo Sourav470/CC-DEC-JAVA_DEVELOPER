@@ -1,0 +1,18 @@
+2
+
+sourav notes
+6
+-things to  buy
+-pen
+-pencil
+-marker
+-books
+-pc
+
+languages to be learned
+5
+-bootstrap
+-javascript
+-node js
+-html
+-css
